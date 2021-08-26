@@ -1,0 +1,32 @@
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio_Jogador\bin\Debug\net5.0\Exercicio_Jogador.exe
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio_Jogador\bin\Debug\net5.0\Exercicio_Jogador.deps.json
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio_Jogador\bin\Debug\net5.0\Exercicio_Jogador.runtimeconfig.json
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio_Jogador\bin\Debug\net5.0\Exercicio_Jogador.runtimeconfig.dev.json
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio_Jogador\bin\Debug\net5.0\Exercicio_Jogador.dll
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio_Jogador\bin\Debug\net5.0\ref\Exercicio_Jogador.dll
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio_Jogador\bin\Debug\net5.0\Exercicio_Jogador.pdb
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio_Jogador\obj\Debug\net5.0\Exercicio_Jogador.csprojAssemblyReference.cache
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio_Jogador\obj\Debug\net5.0\Exercicio_Jogador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio_Jogador\obj\Debug\net5.0\Exercicio_Jogador.AssemblyInfoInputs.cache
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio_Jogador\obj\Debug\net5.0\Exercicio_Jogador.AssemblyInfo.cs
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio_Jogador\obj\Debug\net5.0\Exercicio_Jogador.csproj.CoreCompileInputs.cache
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio_Jogador\obj\Debug\net5.0\Exercicio_Jogador.dll
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio_Jogador\obj\Debug\net5.0\ref\Exercicio_Jogador.dll
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio_Jogador\obj\Debug\net5.0\Exercicio_Jogador.pdb
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio_Jogador\obj\Debug\net5.0\Exercicio_Jogador.genruntimeconfig.cache
+D:\Senai\Programação C#\Exercicio_Jogador\bin\Debug\net5.0\Exercicio_Jogador.exe
+D:\Senai\Programação C#\Exercicio_Jogador\bin\Debug\net5.0\Exercicio_Jogador.deps.json
+D:\Senai\Programação C#\Exercicio_Jogador\bin\Debug\net5.0\Exercicio_Jogador.runtimeconfig.json
+D:\Senai\Programação C#\Exercicio_Jogador\bin\Debug\net5.0\Exercicio_Jogador.runtimeconfig.dev.json
+D:\Senai\Programação C#\Exercicio_Jogador\bin\Debug\net5.0\Exercicio_Jogador.dll
+D:\Senai\Programação C#\Exercicio_Jogador\bin\Debug\net5.0\ref\Exercicio_Jogador.dll
+D:\Senai\Programação C#\Exercicio_Jogador\bin\Debug\net5.0\Exercicio_Jogador.pdb
+D:\Senai\Programação C#\Exercicio_Jogador\obj\Debug\net5.0\Exercicio_Jogador.csprojAssemblyReference.cache
+D:\Senai\Programação C#\Exercicio_Jogador\obj\Debug\net5.0\Exercicio_Jogador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Programação C#\Exercicio_Jogador\obj\Debug\net5.0\Exercicio_Jogador.AssemblyInfoInputs.cache
+D:\Senai\Programação C#\Exercicio_Jogador\obj\Debug\net5.0\Exercicio_Jogador.AssemblyInfo.cs
+D:\Senai\Programação C#\Exercicio_Jogador\obj\Debug\net5.0\Exercicio_Jogador.csproj.CoreCompileInputs.cache
+D:\Senai\Programação C#\Exercicio_Jogador\obj\Debug\net5.0\Exercicio_Jogador.dll
+D:\Senai\Programação C#\Exercicio_Jogador\obj\Debug\net5.0\ref\Exercicio_Jogador.dll
+D:\Senai\Programação C#\Exercicio_Jogador\obj\Debug\net5.0\Exercicio_Jogador.pdb
+D:\Senai\Programação C#\Exercicio_Jogador\obj\Debug\net5.0\Exercicio_Jogador.genruntimeconfig.cache

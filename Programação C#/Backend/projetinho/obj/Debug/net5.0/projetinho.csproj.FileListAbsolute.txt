@@ -1,0 +1,16 @@
+D:\Senai\Backend\projetinho\bin\Debug\net5.0\projetinho.exe
+D:\Senai\Backend\projetinho\bin\Debug\net5.0\projetinho.deps.json
+D:\Senai\Backend\projetinho\bin\Debug\net5.0\projetinho.runtimeconfig.json
+D:\Senai\Backend\projetinho\bin\Debug\net5.0\projetinho.runtimeconfig.dev.json
+D:\Senai\Backend\projetinho\bin\Debug\net5.0\projetinho.dll
+D:\Senai\Backend\projetinho\bin\Debug\net5.0\ref\projetinho.dll
+D:\Senai\Backend\projetinho\bin\Debug\net5.0\projetinho.pdb
+D:\Senai\Backend\projetinho\obj\Debug\net5.0\projetinho.csprojAssemblyReference.cache
+D:\Senai\Backend\projetinho\obj\Debug\net5.0\projetinho.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Backend\projetinho\obj\Debug\net5.0\projetinho.AssemblyInfoInputs.cache
+D:\Senai\Backend\projetinho\obj\Debug\net5.0\projetinho.AssemblyInfo.cs
+D:\Senai\Backend\projetinho\obj\Debug\net5.0\projetinho.csproj.CoreCompileInputs.cache
+D:\Senai\Backend\projetinho\obj\Debug\net5.0\projetinho.dll
+D:\Senai\Backend\projetinho\obj\Debug\net5.0\ref\projetinho.dll
+D:\Senai\Backend\projetinho\obj\Debug\net5.0\projetinho.pdb
+D:\Senai\Backend\projetinho\obj\Debug\net5.0\projetinho.genruntimeconfig.cache

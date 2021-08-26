@@ -1,0 +1,625 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    }
+    .container{
+    width:1200px;
+    margin: 0 auto;
+
+    }  
+
+    /* Cabeçalho */
+
+    header{
+    height: 100px;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+    width: 100%;
+
+    background-color: #000000;
+    }
+
+    .container_header{
+    display: flex;
+    justify-content: space-evenly;
+    height:100%;
+    align-items: center;
+    margin-right: 280px;
+
+     /* background-color: cyan;   */
+    }
+
+    .menu_header{
+     display: flex;
+     justify-content:space-between;
+     /* background-color: bisque; */
+     width: 759px;
+     align-items: center;
+
+    /* background-color: chocolate;   */
+    }
+
+    .fechar{
+    display: none;
+    }
+
+    .menu_header a{
+    color:#ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-size: 19px;
+    }
+      
+    .btn_menu i {
+    display: none;
+    color: white;
+    font-size: 30px;
+    }
+   
+
+    .logo_site{      
+    width: 360px;
+    height: 32px;
+    margin-right: 76px;
+    align-items: center;
+    }
+
+    .container_banner{
+    width: 100%;  
+    height: 240;
+    align-items: center;
+    background-color: aqua;
+    }
+    
+    .fundo_sonic{
+    width: 100%;  
+    height: 240;
+    background-color: blueviolet;
+    margin-top: 100px;;
+    }
+    
+    /* Corpo do Site */
+
+    .corpo{
+    width: 100%;
+    height: 880px;;
+    flex-direction: column;
+    
+    align-items: center;
+    display: flex;
+    justify-content:space-between;
+    background: #1E1C21;
+    }
+
+    .box_conteudo{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+    background-color: crimson;
+    }
+    
+    .box_conteudo h1{
+    width: 350px;
+    height: 60px;
+    position: absolute;
+    margin-top: 80px;
+    
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 61px;
+    
+    color: #FFFFFF;
+    }
+    
+    
+    .box_cadastro{
+    width: 770px;
+    height: 340px;
+    margin-top: 62px;
+    /* margin-top: -155px; */
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+        
+    background: linear-gradient(180deg, #000000 0%, rgba(83, 83, 83, 0.577381) 25%, rgba(196, 196, 196, 0) 87.5%);
+    box-shadow: 1px 1px 20px 4px #000000;
+    }
+    
+    .container_cadastro{
+    width: 575px;
+    height: 147px;   
+    margin-top: 62px;
+    line-height: 31px;
+    flex-direction: column;
+    
+    /* background-color: cornflowerblue;   */
+    }
+    
+    .container_cadastro span{
+    width: 168px;
+    height: 23px;
+       
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #FFFFFF;
+    }
+
+    .lista_jogadores h1{
+    width: 330px;
+    height: 39px;
+    left: 560px;
+    top: 431px;
+        
+    margin-top: 54px;
+    margin-bottom: 14px;
+    margin-left: 69px;
+    
+    font-family: Titillium Web;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 61px;
+    
+    color: #FFFFFF;
+    }
+
+    .cadastrar{
+    display: flex;
+    }
+
+    .cadastradinho{
+    width: 268px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: #ABABAB;
+    }
+
+    .cadastradinho span{
+    width: 125px;
+    /* height: 19px;
+    left: 443px;
+    top: 552px;  */
+        
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    /* identical to box height */
+        color: #000000;  
+    }
+
+    .cadastrar input{
+    height: 30px;
+    width: 577px; 
+    margin-bottom: 33px;
+
+    background: #ABABAB;
+    }
+
+    .botaocadastro{
+    width: 575px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 33px;
+    /* background-color: darkslateblue;  */
+    }
+
+    .cadastrar button{
+    width: 257px; 
+    height: 40px; 
+  
+    cursor: pointer; 
+    font-weight: bold;
+    border: none; 
+    text-transform: uppercase; 
+    font-family: Titillium Web, sans-serif; 
+    font-size: 19px; 
+    border-radius: 10px; 
+    line-height: 34px; 
+        
+    color: #fff; 
+    background: #c65d00c7; 
+    }
+
+
+    .cadastrar a:hover{
+    scale: 1.1;
+    }
+
+    .retangulo_lista{
+    margin-top: 38px;
+    margin-bottom: 66px;
+    }
+    
+    table{
+    width: 770px;
+    border: 2px solid #FFFFFF;
+    border-collapse: collapse;
+    }
+    
+    .linha1{
+    height: 60px;
+       
+    background-color: #010101;
+    border-bottom: 2px solid #FFFFFF;
+    border-collapse: collapse;
+    }
+    
+    th{
+    padding-left: 13px;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #FFFFFF;  
+    }
+    
+    td{
+    padding: 11px; 
+    margin-left: 10px; 
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 23px;
+    
+    color: #FFFFFF;
+    }
+    
+    .linha2{
+    background: none;    
+    border-bottom: none;
+    border-top: none;
+    }
+    
+
+    /* Rodapé */
+    footer {
+    background-color: black;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    }
+    
+    .container_footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    }
+    
+    .container_links {
+    display: flex;
+    justify-content: space-between;
+    width: 280px;
+    }
+    
+    .container_links span {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 20px;
+    color: white;
+    }
+    
+    .container_links li {
+    color: white;
+    }
+    
+    .container_links a {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    }
+    
+    .siga_nos .clan {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    }
+    
+    .siga_nos .segue {
+    font-family: 'Titillium Web', sans-serif;
+    color: white;
+    font-size: 20px;
+    }
+    
+    .siga_nos img {
+    height: 40px;
+    width: 40px;
+    }
+    
+    .cadastrado {
+    display: flex;
+    }
+    
+    .cadastrado input {
+    height: 40px;
+    width: 220px;
+    }
+    
+    .cadastrado a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    background-color: #016AB7;
+    height: 40px;
+    width: 126px;
+    }
+    
+    .cadastrado a span {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    }
+    
+    .redes_sociais {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 10px;
+    }
+
+    /* Responsividade */
+
+    @media (max-width: 420px){
+
+    .container{               
+    width: 80vw;                      
+    margin: 0 42px;
+    }
+
+    .fa, .fas {
+    font-weight: 900;
+    color: white;
+    font-size: 30px;
+    }
+
+    .btn_menu i {
+    display: inline-block;     
+    color: white;  
+    font-size: 30px;       
+    }
+
+    .container_header{
+    justify-content: flex-start;
+    align-items: center;
+    }
+
+    .menu_header{
+    display: none;
+    height: 300px;
+    width: 100%;      
+        
+    justify-content: space-evenly;
+    align-items: unset;
+    position: absolute;
+    flex-direction: column;
+    padding-left: 10vw;
+      
+    left: 0;      
+    top: 60px;
+
+    background-color: black;
+     /* background-color: bisque; */
+    }
+
+    .container_header img{ 
+     width: 55vw;
+    }
+
+    .box_conteudo h1{
+    width: 65vw;
+    height: 43px;   
+    font-size: 34px;
+    }
+
+    .corpo{
+    width: 100%;
+    height: 869px;
+    flex-direction: column;
+        
+    align-items: center;
+    display: flex;
+    justify-content:space-between;
+
+    background: #1E1C21;
+    }
+
+    .box_cadastro{
+    width: 90vw;
+    height: 389px;
+    margin-top: 51px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(180deg, #000000 0%, rgba(83, 83, 83, 0.577381) 25%, rgba(196, 196, 196, 0) 87.5%);
+    box-shadow: 1px 1px 20px 4px #000000;
+    }
+
+    .box_cadastro{
+    width: 81vw;
+    height: 326px;
+    /* margin-top: 62px; */
+    line-height: 31px;
+    flex-direction: column;
+    /* background-color: cornflowerblue; */
+    }
+
+    .container_cadastro{
+    width: 75vw;
+    height: 300px;
+    /* margin-top: none; */
+    margin-top: 15px;
+    /* flex-direction: column; */
+    /* background-color: cornflowerblue; */
+    }
+
+    .container_cadastro span {
+    width: 168px;
+    height: 23px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 23px;
+    color: #FFFFFF;
+    }
+
+    .cadastradinho {
+    width: 75vw;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: ;
+    background: #ABABAB;
+    }
+
+    .botaocadastro{
+    height: 50px;
+    width: 73vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 59px;
+    }
+
+    .cadastrar button {
+    width: 205px;
+    height: 40px;
+    cursor: pointer;
+    font-weight: bold;
+    border: none;
+    text-transform: uppercase;
+    font-family: Titillium Web, sans-serif;
+    font-size: 19px;
+    border-radius: 10px;
+    line-height: 34px;
+    color: #fff;
+    background: #c65d00c7;
+    }
+
+
+    .lista_jogadores{
+    width: 80vw;
+    height: 61px ;
+    align-items: center;
+    display: flex;
+    justify-content: center; 
+    }
+
+    .lista_jogadores h1 {
+    width: 60vw;
+    height: 55px;
+    top: unset;
+    left: unset;
+
+    margin-bottom: unset; 
+    margin-top:unset;
+    margin-left: unset;
+    font-family: Titillium Web;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 61px;
+    color: #FFFFFF;
+    }
+
+    table {
+    width: 80vw;
+    border: 2px solid #FFFFFF;
+    border-collapse: collapse;
+    }
+
+    .retangulo_lista {
+    margin-top: 12px;
+    margin-bottom: 66px;
+    width: 80vw;
+    }
+
+    th{
+    padding-left: 13px;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 23px;
+        
+    color: #FFFFFF;  
+    }
+        
+    td{
+    padding: 11px; 
+    margin-left: 10px; 
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 23px;
+        
+    color: #FFFFFF;
+    }
+
+    footer {
+    background-color: black;
+    height: 226px;
+    display: flex;
+    align-items: center;
+    }
+
+    .container_footer{
+    display: flex;
+    flex-direction: column;
+    }
+
+    .container_links {
+    display: none
+    }
+
+    .logo_footer{
+    width: 35vw;
+    margin-bottom: 18px;
+    }
+
+    .container_footer img{
+    /* width: 11vw; */
+    }
+
+    .siga_nos{
+    /* width: 40vw;     */
+    }
+
+    .redes_sociais{
+    margin-top: 18px;
+    }
+
+    .logo_site {
+    width: 360px;
+    height: 32px;
+    margin-right: 65px;
+    align-items: center;
+    }
+    } 

@@ -1,0 +1,16 @@
+D:\Senai\Programacao\bin\Debug\net5.0\Programacao.exe
+D:\Senai\Programacao\bin\Debug\net5.0\Programacao.deps.json
+D:\Senai\Programacao\bin\Debug\net5.0\Programacao.runtimeconfig.json
+D:\Senai\Programacao\bin\Debug\net5.0\Programacao.runtimeconfig.dev.json
+D:\Senai\Programacao\bin\Debug\net5.0\Programacao.dll
+D:\Senai\Programacao\bin\Debug\net5.0\ref\Programacao.dll
+D:\Senai\Programacao\bin\Debug\net5.0\Programacao.pdb
+D:\Senai\Programacao\obj\Debug\net5.0\Programacao.csprojAssemblyReference.cache
+D:\Senai\Programacao\obj\Debug\net5.0\Programacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Programacao\obj\Debug\net5.0\Programacao.AssemblyInfoInputs.cache
+D:\Senai\Programacao\obj\Debug\net5.0\Programacao.AssemblyInfo.cs
+D:\Senai\Programacao\obj\Debug\net5.0\Programacao.csproj.CoreCompileInputs.cache
+D:\Senai\Programacao\obj\Debug\net5.0\Programacao.dll
+D:\Senai\Programacao\obj\Debug\net5.0\ref\Programacao.dll
+D:\Senai\Programacao\obj\Debug\net5.0\Programacao.pdb
+D:\Senai\Programacao\obj\Debug\net5.0\Programacao.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Senai\Fixacao\Sexto\bin\Debug\net5.0\Sexto.exe
+D:\Senai\Fixacao\Sexto\bin\Debug\net5.0\Sexto.deps.json
+D:\Senai\Fixacao\Sexto\bin\Debug\net5.0\Sexto.runtimeconfig.json
+D:\Senai\Fixacao\Sexto\bin\Debug\net5.0\Sexto.runtimeconfig.dev.json
+D:\Senai\Fixacao\Sexto\bin\Debug\net5.0\Sexto.dll
+D:\Senai\Fixacao\Sexto\bin\Debug\net5.0\ref\Sexto.dll
+D:\Senai\Fixacao\Sexto\bin\Debug\net5.0\Sexto.pdb
+D:\Senai\Fixacao\Sexto\obj\Debug\net5.0\Sexto.csprojAssemblyReference.cache
+D:\Senai\Fixacao\Sexto\obj\Debug\net5.0\Sexto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Fixacao\Sexto\obj\Debug\net5.0\Sexto.AssemblyInfoInputs.cache
+D:\Senai\Fixacao\Sexto\obj\Debug\net5.0\Sexto.AssemblyInfo.cs
+D:\Senai\Fixacao\Sexto\obj\Debug\net5.0\Sexto.csproj.CoreCompileInputs.cache
+D:\Senai\Fixacao\Sexto\obj\Debug\net5.0\Sexto.dll
+D:\Senai\Fixacao\Sexto\obj\Debug\net5.0\ref\Sexto.dll
+D:\Senai\Fixacao\Sexto\obj\Debug\net5.0\Sexto.pdb
+D:\Senai\Fixacao\Sexto\obj\Debug\net5.0\Sexto.genruntimeconfig.cache

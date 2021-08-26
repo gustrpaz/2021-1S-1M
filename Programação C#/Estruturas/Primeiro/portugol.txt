@@ -1,0 +1,39 @@
+programa {
+	
+	inteiro nota
+	
+	funcao inicio() {
+		
+		escreva ("Digite sua nota: \n")
+		leia (nota)
+		
+		escolha (nota){
+		
+		caso 1 
+		    escreva ("Sua nota é válida")
+		caso 2 
+		    escreva ("Sua nota é válida")
+		caso 3 
+		    escreva ("Sua nota é válida")
+		caso 4
+		    escreva ("Sua nota é válida")
+		caso 5
+		    escreva ("Sua nota é válida")
+		caso 6 
+		    escreva ("Sua nota é válida")
+		caso 7
+		    escreva ("Sua nota é válida")
+		caso 8
+		    escreva ("Sua nota é válida")
+		caso 9
+		    escreva ("Sua nota é válida")
+		caso 10
+		    escreva ("Sua nota é válida")
+		    
+		casooutro
+		escreva ("Sua nota não é válida")
+		
+		fimescolha
+		}
+	}
+}

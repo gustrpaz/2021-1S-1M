@@ -1,0 +1,16 @@
+D:\Senai\Backend\Aula 0405\obj\Debug\net5.0\Aula 0405.csprojAssemblyReference.cache
+D:\Senai\Backend\Aula 0405\obj\Debug\net5.0\Aula 0405.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Backend\Aula 0405\obj\Debug\net5.0\Aula 0405.AssemblyInfoInputs.cache
+D:\Senai\Backend\Aula 0405\obj\Debug\net5.0\Aula 0405.AssemblyInfo.cs
+D:\Senai\Backend\Aula 0405\obj\Debug\net5.0\Aula 0405.csproj.CoreCompileInputs.cache
+D:\Senai\Backend\Aula 0405\bin\Debug\net5.0\Aula 0405.exe
+D:\Senai\Backend\Aula 0405\bin\Debug\net5.0\Aula 0405.deps.json
+D:\Senai\Backend\Aula 0405\bin\Debug\net5.0\Aula 0405.runtimeconfig.json
+D:\Senai\Backend\Aula 0405\bin\Debug\net5.0\Aula 0405.runtimeconfig.dev.json
+D:\Senai\Backend\Aula 0405\bin\Debug\net5.0\Aula 0405.dll
+D:\Senai\Backend\Aula 0405\bin\Debug\net5.0\ref\Aula 0405.dll
+D:\Senai\Backend\Aula 0405\bin\Debug\net5.0\Aula 0405.pdb
+D:\Senai\Backend\Aula 0405\obj\Debug\net5.0\Aula 0405.dll
+D:\Senai\Backend\Aula 0405\obj\Debug\net5.0\ref\Aula 0405.dll
+D:\Senai\Backend\Aula 0405\obj\Debug\net5.0\Aula 0405.pdb
+D:\Senai\Backend\Aula 0405\obj\Debug\net5.0\Aula 0405.genruntimeconfig.cache

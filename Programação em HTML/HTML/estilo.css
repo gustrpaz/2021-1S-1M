@@ -1,0 +1,185 @@
+       /* Presets */
+
+       /* Reset do CSS */
+    *{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+       .Assuntos-em-destaque {
+        position:fixed;
+        z-index:100;  
+        margin-left: 200px;
+        left: 0 ;
+        top: 10px;
+        width:600px;   
+        height: 34px;
+        background-color: rgb(0, 0, 0);         
+        /* height: 34px
+        width: 1760px */
+                         
+      
+       }
+    
+        header {
+        position:fixed;    
+        z-index:100;  
+        left: 0;
+        top: 34px;
+        width: 100%;           
+        background-color: khaki; 
+        display: flex;
+        justify-content:space-around;
+
+       }
+        
+       .logo-input {
+
+        background-color: rgb(16, 214, 26); 
+        width: 179px;
+        height: 59px;
+        line-height:50px;
+        display: flex;
+        justify-content: center;
+       }
+       
+        .menu {
+
+        background-color: rgb(0, 204, 194); 
+        z-index:100;  
+        width: 150px;
+        margin-top: 8px;
+         /* width: 300px; */
+        height: 45px;
+        vertical-align: middle;
+        display: flex;
+        justify-content:space-around;
+        line-height:31px;
+        margin-left: auto;
+        margin-right: auto;
+        
+
+       }
+
+       .guias {
+        position:fixed;
+        z-index:100;  
+        left: 0;
+        top: 93px;
+        width: 100%;           
+        background-color:rgb(180, 72, 252); 
+        width: 1734px;
+        height: 54px;
+        display: flex;
+        justify-content:center;
+    
+       }
+
+       .pagina {
+        /* align-items: center; */
+        background-color:red; 
+        margin-top: 17px;
+        width: 107px;
+        height: 30px;
+        display: flex;
+        justify-content: center;
+        line-height:31px;
+        margin-left: 318px;
+        margin-right: auto;
+        width: 6em
+        
+        
+    
+       }
+       .{ width: 100%; font-size:18px; float:left; text-align:center; line-height:50px; }.guias{ width: 100%;font-size:18px; float:left; text-align:center; padding:16px 0 17px 0}
+
+       .saude {
+        margin-left: 830px;
+        margin-right: 10px;
+        
+        }
+
+       .corpo {           
+        margin-left: 200px;
+        margin-right: 10px;
+        
+        } 
+      
+
+       .link {
+        margin-top: -90px;
+        margin-left: 708px;
+        margin-right: 10px;
+
+       }  
+
+       .whatsapp {
+        display: flex;
+        justify-content:flex-end; 
+        margin-top:-100px;
+        margin-left: 1300px;
+        margin-bottom: 100px;
+        position: fixed; 
+        
+
+       }
+       
+       .altura {
+        background-color: rgb(255, 255, 255);
+        margin-top: 200px;
+        width: 1000px;
+        height: 1000px;        
+
+       }
+
+        main {
+        margin-top: 10px;
+
+       }
+
+       .saude {
+        margin-top: 160px;
+        margin-left: 49%;
+        margin-right: 0px;
+
+       }
+          
+       .conteiner {
+        margin-top: 30px;
+        margin-left:490px;
+        width: 653px;
+        height:557px;       
+        position: relative;
+
+       }
+  
+       .conteiner img {
+        width: 100%;
+       
+       }
+ 
+       .divergencia {
+        position:absolute;      
+        top:0;
+        left: 0;
+        text-align: center;
+        margin: auto;
+        padding:10px;
+
+       }
+       
+       .saude a{
+          color:red
+      }
+      
+      .Assuntos-em-destaque a{
+         color: white;
+      }
+      
+   
+      .salve{
+         background-color: black;
+         height: 54px
+         width: 1760px
+      }

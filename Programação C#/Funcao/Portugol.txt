@@ -1,0 +1,80 @@
+ Algoritimo "Calculadora"
+
+ var
+
+  primeiroNumero
+  segundoNumero
+  Somar
+  Subtrair
+  Multiplicar
+  Dividir
+  operacao
+  n1
+  n2
+
+   Inicio
+
+   Procedimento nome Somar
+   retornar valor primeiroNumero + segundoNumero
+
+   Procedimento nome Subtrair
+   retornar valor primeiroNumero - segundoNumero
+
+   Procedimento nome Multiplicar
+   retornar valor primeiroNumero * segundoNumero
+
+   Procedimento nome Dividir
+   retornar valor primeiroNumero / segundoNumero
+
+          Escreva ("Calculadora
+          Escolha a operação que deseja realizar e digite:
+
+          - Adição
+          - Subtração
+          - Multiplicação
+          - Divisão 
+          ")
+
+          Leia (caractere operacao) 
+
+          Escreval (" Digite o primeiro número para realizar um cálculo: ")
+          Leia (d n1 = i)
+
+          Escreva (" Digite o segundo número para realizar o cálculo: ")
+          Leia (d n2 = i)
+
+
+          Escolha (operacao)
+
+          caso Adição
+           Escreval (" || O resultado da soma é igual a: [Somar (n1 n2)] ||")
+
+          Fimescolha
+
+
+          caso Subtração
+          Escreval (" || O resultado da subtrair é igual a: [Subtrair (n1 n2)] ||")
+
+          Fimescolha
+
+
+          caso Multiplicar
+          Escreval (" || O resultado da multiplicação é igual a: [Multiplicar (n1 n2)] ||")
+
+          Fimescolha
+
+
+          caso Divisão
+          Escreval (" || O resultado da divisão é igual a: [Dividir (n1 n2)] ||")
+
+          Fimescolha
+
+
+
+Fimalgoritimo
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+D:\Senai\Programação C#\Atributos\obj\Debug\net5.0\Atributos.csprojAssemblyReference.cache
+D:\Senai\Programação C#\Atributos\obj\Debug\net5.0\Atributos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Programação C#\Atributos\obj\Debug\net5.0\Atributos.AssemblyInfoInputs.cache
+D:\Senai\Programação C#\Atributos\obj\Debug\net5.0\Atributos.AssemblyInfo.cs
+D:\Senai\Programação C#\Atributos\obj\Debug\net5.0\Atributos.csproj.CoreCompileInputs.cache
+D:\Senai\Programação C#\Atributos\bin\Debug\net5.0\Atributos.exe
+D:\Senai\Programação C#\Atributos\bin\Debug\net5.0\Atributos.deps.json
+D:\Senai\Programação C#\Atributos\bin\Debug\net5.0\Atributos.runtimeconfig.json
+D:\Senai\Programação C#\Atributos\bin\Debug\net5.0\Atributos.runtimeconfig.dev.json
+D:\Senai\Programação C#\Atributos\bin\Debug\net5.0\Atributos.dll
+D:\Senai\Programação C#\Atributos\bin\Debug\net5.0\ref\Atributos.dll
+D:\Senai\Programação C#\Atributos\bin\Debug\net5.0\Atributos.pdb
+D:\Senai\Programação C#\Atributos\obj\Debug\net5.0\Atributos.dll
+D:\Senai\Programação C#\Atributos\obj\Debug\net5.0\ref\Atributos.dll
+D:\Senai\Programação C#\Atributos\obj\Debug\net5.0\Atributos.pdb
+D:\Senai\Programação C#\Atributos\obj\Debug\net5.0\Atributos.genruntimeconfig.cache

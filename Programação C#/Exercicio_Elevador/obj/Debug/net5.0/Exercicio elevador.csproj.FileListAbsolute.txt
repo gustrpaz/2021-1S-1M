@@ -1,0 +1,32 @@
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio elevador\bin\Debug\net5.0\Exercicio elevador.exe
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio elevador\bin\Debug\net5.0\Exercicio elevador.deps.json
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio elevador\bin\Debug\net5.0\Exercicio elevador.runtimeconfig.json
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio elevador\bin\Debug\net5.0\Exercicio elevador.runtimeconfig.dev.json
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio elevador\bin\Debug\net5.0\Exercicio elevador.dll
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio elevador\bin\Debug\net5.0\ref\Exercicio elevador.dll
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio elevador\bin\Debug\net5.0\Exercicio elevador.pdb
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio elevador\obj\Debug\net5.0\Exercicio elevador.csprojAssemblyReference.cache
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio elevador\obj\Debug\net5.0\Exercicio elevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio elevador\obj\Debug\net5.0\Exercicio elevador.AssemblyInfoInputs.cache
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio elevador\obj\Debug\net5.0\Exercicio elevador.AssemblyInfo.cs
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio elevador\obj\Debug\net5.0\Exercicio elevador.csproj.CoreCompileInputs.cache
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio elevador\obj\Debug\net5.0\Exercicio elevador.dll
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio elevador\obj\Debug\net5.0\ref\Exercicio elevador.dll
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio elevador\obj\Debug\net5.0\Exercicio elevador.pdb
+C:\Users\Claudeci.Paz\OneDrive\Área de Trabalho\Senai\Exercicio elevador\obj\Debug\net5.0\Exercicio elevador.genruntimeconfig.cache
+D:\Senai\Programação C#\Exercicio_Elevador\bin\Debug\net5.0\Exercicio elevador.exe
+D:\Senai\Programação C#\Exercicio_Elevador\bin\Debug\net5.0\Exercicio elevador.deps.json
+D:\Senai\Programação C#\Exercicio_Elevador\bin\Debug\net5.0\Exercicio elevador.runtimeconfig.json
+D:\Senai\Programação C#\Exercicio_Elevador\bin\Debug\net5.0\Exercicio elevador.runtimeconfig.dev.json
+D:\Senai\Programação C#\Exercicio_Elevador\bin\Debug\net5.0\Exercicio elevador.dll
+D:\Senai\Programação C#\Exercicio_Elevador\bin\Debug\net5.0\ref\Exercicio elevador.dll
+D:\Senai\Programação C#\Exercicio_Elevador\bin\Debug\net5.0\Exercicio elevador.pdb
+D:\Senai\Programação C#\Exercicio_Elevador\obj\Debug\net5.0\Exercicio elevador.csprojAssemblyReference.cache
+D:\Senai\Programação C#\Exercicio_Elevador\obj\Debug\net5.0\Exercicio elevador.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Programação C#\Exercicio_Elevador\obj\Debug\net5.0\Exercicio elevador.AssemblyInfoInputs.cache
+D:\Senai\Programação C#\Exercicio_Elevador\obj\Debug\net5.0\Exercicio elevador.AssemblyInfo.cs
+D:\Senai\Programação C#\Exercicio_Elevador\obj\Debug\net5.0\Exercicio elevador.csproj.CoreCompileInputs.cache
+D:\Senai\Programação C#\Exercicio_Elevador\obj\Debug\net5.0\Exercicio elevador.dll
+D:\Senai\Programação C#\Exercicio_Elevador\obj\Debug\net5.0\ref\Exercicio elevador.dll
+D:\Senai\Programação C#\Exercicio_Elevador\obj\Debug\net5.0\Exercicio elevador.pdb
+D:\Senai\Programação C#\Exercicio_Elevador\obj\Debug\net5.0\Exercicio elevador.genruntimeconfig.cache

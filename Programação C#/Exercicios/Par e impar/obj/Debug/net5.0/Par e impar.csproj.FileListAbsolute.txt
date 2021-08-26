@@ -1,0 +1,16 @@
+D:\Senai\Exercicios\Par e impar\bin\Debug\net5.0\Par e impar.exe
+D:\Senai\Exercicios\Par e impar\bin\Debug\net5.0\Par e impar.deps.json
+D:\Senai\Exercicios\Par e impar\bin\Debug\net5.0\Par e impar.runtimeconfig.json
+D:\Senai\Exercicios\Par e impar\bin\Debug\net5.0\Par e impar.runtimeconfig.dev.json
+D:\Senai\Exercicios\Par e impar\bin\Debug\net5.0\Par e impar.dll
+D:\Senai\Exercicios\Par e impar\bin\Debug\net5.0\ref\Par e impar.dll
+D:\Senai\Exercicios\Par e impar\bin\Debug\net5.0\Par e impar.pdb
+D:\Senai\Exercicios\Par e impar\obj\Debug\net5.0\Par e impar.csprojAssemblyReference.cache
+D:\Senai\Exercicios\Par e impar\obj\Debug\net5.0\Par e impar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Exercicios\Par e impar\obj\Debug\net5.0\Par e impar.AssemblyInfoInputs.cache
+D:\Senai\Exercicios\Par e impar\obj\Debug\net5.0\Par e impar.AssemblyInfo.cs
+D:\Senai\Exercicios\Par e impar\obj\Debug\net5.0\Par e impar.csproj.CoreCompileInputs.cache
+D:\Senai\Exercicios\Par e impar\obj\Debug\net5.0\Par e impar.dll
+D:\Senai\Exercicios\Par e impar\obj\Debug\net5.0\ref\Par e impar.dll
+D:\Senai\Exercicios\Par e impar\obj\Debug\net5.0\Par e impar.pdb
+D:\Senai\Exercicios\Par e impar\obj\Debug\net5.0\Par e impar.genruntimeconfig.cache

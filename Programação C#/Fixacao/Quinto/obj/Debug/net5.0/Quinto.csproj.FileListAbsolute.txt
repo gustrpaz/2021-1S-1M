@@ -1,0 +1,16 @@
+D:\Senai\Fixacao\Quinto\obj\Debug\net5.0\Quinto.csprojAssemblyReference.cache
+D:\Senai\Fixacao\Quinto\obj\Debug\net5.0\Quinto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Fixacao\Quinto\obj\Debug\net5.0\Quinto.AssemblyInfoInputs.cache
+D:\Senai\Fixacao\Quinto\obj\Debug\net5.0\Quinto.AssemblyInfo.cs
+D:\Senai\Fixacao\Quinto\obj\Debug\net5.0\Quinto.csproj.CoreCompileInputs.cache
+D:\Senai\Fixacao\Quinto\bin\Debug\net5.0\Quinto.exe
+D:\Senai\Fixacao\Quinto\bin\Debug\net5.0\Quinto.deps.json
+D:\Senai\Fixacao\Quinto\bin\Debug\net5.0\Quinto.runtimeconfig.json
+D:\Senai\Fixacao\Quinto\bin\Debug\net5.0\Quinto.runtimeconfig.dev.json
+D:\Senai\Fixacao\Quinto\bin\Debug\net5.0\Quinto.dll
+D:\Senai\Fixacao\Quinto\bin\Debug\net5.0\ref\Quinto.dll
+D:\Senai\Fixacao\Quinto\bin\Debug\net5.0\Quinto.pdb
+D:\Senai\Fixacao\Quinto\obj\Debug\net5.0\Quinto.dll
+D:\Senai\Fixacao\Quinto\obj\Debug\net5.0\ref\Quinto.dll
+D:\Senai\Fixacao\Quinto\obj\Debug\net5.0\Quinto.pdb
+D:\Senai\Fixacao\Quinto\obj\Debug\net5.0\Quinto.genruntimeconfig.cache

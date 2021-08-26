@@ -1,0 +1,16 @@
+D:\Senai\Fixacao\Sétimo\bin\Debug\net5.0\Sétimo.exe
+D:\Senai\Fixacao\Sétimo\bin\Debug\net5.0\Sétimo.deps.json
+D:\Senai\Fixacao\Sétimo\bin\Debug\net5.0\Sétimo.runtimeconfig.json
+D:\Senai\Fixacao\Sétimo\bin\Debug\net5.0\Sétimo.runtimeconfig.dev.json
+D:\Senai\Fixacao\Sétimo\bin\Debug\net5.0\Sétimo.dll
+D:\Senai\Fixacao\Sétimo\bin\Debug\net5.0\ref\Sétimo.dll
+D:\Senai\Fixacao\Sétimo\bin\Debug\net5.0\Sétimo.pdb
+D:\Senai\Fixacao\Sétimo\obj\Debug\net5.0\Sétimo.csprojAssemblyReference.cache
+D:\Senai\Fixacao\Sétimo\obj\Debug\net5.0\Sétimo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Fixacao\Sétimo\obj\Debug\net5.0\Sétimo.AssemblyInfoInputs.cache
+D:\Senai\Fixacao\Sétimo\obj\Debug\net5.0\Sétimo.AssemblyInfo.cs
+D:\Senai\Fixacao\Sétimo\obj\Debug\net5.0\Sétimo.csproj.CoreCompileInputs.cache
+D:\Senai\Fixacao\Sétimo\obj\Debug\net5.0\Sétimo.dll
+D:\Senai\Fixacao\Sétimo\obj\Debug\net5.0\ref\Sétimo.dll
+D:\Senai\Fixacao\Sétimo\obj\Debug\net5.0\Sétimo.pdb
+D:\Senai\Fixacao\Sétimo\obj\Debug\net5.0\Sétimo.genruntimeconfig.cache

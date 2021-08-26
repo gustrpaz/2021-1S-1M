@@ -1,0 +1,16 @@
+D:\Senai\Fixacao\Quarto\bin\Debug\net5.0\Quarto.exe
+D:\Senai\Fixacao\Quarto\bin\Debug\net5.0\Quarto.deps.json
+D:\Senai\Fixacao\Quarto\bin\Debug\net5.0\Quarto.runtimeconfig.json
+D:\Senai\Fixacao\Quarto\bin\Debug\net5.0\Quarto.runtimeconfig.dev.json
+D:\Senai\Fixacao\Quarto\bin\Debug\net5.0\Quarto.dll
+D:\Senai\Fixacao\Quarto\bin\Debug\net5.0\ref\Quarto.dll
+D:\Senai\Fixacao\Quarto\bin\Debug\net5.0\Quarto.pdb
+D:\Senai\Fixacao\Quarto\obj\Debug\net5.0\Quarto.csprojAssemblyReference.cache
+D:\Senai\Fixacao\Quarto\obj\Debug\net5.0\Quarto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Fixacao\Quarto\obj\Debug\net5.0\Quarto.AssemblyInfoInputs.cache
+D:\Senai\Fixacao\Quarto\obj\Debug\net5.0\Quarto.AssemblyInfo.cs
+D:\Senai\Fixacao\Quarto\obj\Debug\net5.0\Quarto.csproj.CoreCompileInputs.cache
+D:\Senai\Fixacao\Quarto\obj\Debug\net5.0\Quarto.dll
+D:\Senai\Fixacao\Quarto\obj\Debug\net5.0\ref\Quarto.dll
+D:\Senai\Fixacao\Quarto\obj\Debug\net5.0\Quarto.pdb
+D:\Senai\Fixacao\Quarto\obj\Debug\net5.0\Quarto.genruntimeconfig.cache

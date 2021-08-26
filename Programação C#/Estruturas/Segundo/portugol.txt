@@ -1,0 +1,29 @@
+programa {
+	
+	cadeia nome
+	cadeia senha
+	
+	funcao inicio() {
+		
+		escreva ("Digite seu nome: ")
+		leia (nome)
+		escreva ("Digite sua senha: ")
+		leia (senha)
+		
+		
+		faça{
+		    escreva ("A senha não pode ser igual ao seu nome
+            escreva ("Digite seu nome: ")
+            leia (nome)
+            escreva ("Digite sua senha: ")
+            leia (senha)
+            
+		}enquanto (nome == senha)
+		
+		se (nome != senha) {
+		    escreva("Suas credenciais são invalidas")
+		}
+		
+		
+	}
+}

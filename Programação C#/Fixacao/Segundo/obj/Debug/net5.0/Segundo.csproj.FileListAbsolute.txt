@@ -1,0 +1,16 @@
+D:\Senai\Fixacao\Segundo\bin\Debug\net5.0\Segundo.exe
+D:\Senai\Fixacao\Segundo\bin\Debug\net5.0\Segundo.deps.json
+D:\Senai\Fixacao\Segundo\bin\Debug\net5.0\Segundo.runtimeconfig.json
+D:\Senai\Fixacao\Segundo\bin\Debug\net5.0\Segundo.runtimeconfig.dev.json
+D:\Senai\Fixacao\Segundo\bin\Debug\net5.0\Segundo.dll
+D:\Senai\Fixacao\Segundo\bin\Debug\net5.0\ref\Segundo.dll
+D:\Senai\Fixacao\Segundo\bin\Debug\net5.0\Segundo.pdb
+D:\Senai\Fixacao\Segundo\obj\Debug\net5.0\Segundo.csprojAssemblyReference.cache
+D:\Senai\Fixacao\Segundo\obj\Debug\net5.0\Segundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Fixacao\Segundo\obj\Debug\net5.0\Segundo.AssemblyInfoInputs.cache
+D:\Senai\Fixacao\Segundo\obj\Debug\net5.0\Segundo.AssemblyInfo.cs
+D:\Senai\Fixacao\Segundo\obj\Debug\net5.0\Segundo.csproj.CoreCompileInputs.cache
+D:\Senai\Fixacao\Segundo\obj\Debug\net5.0\Segundo.dll
+D:\Senai\Fixacao\Segundo\obj\Debug\net5.0\ref\Segundo.dll
+D:\Senai\Fixacao\Segundo\obj\Debug\net5.0\Segundo.pdb
+D:\Senai\Fixacao\Segundo\obj\Debug\net5.0\Segundo.genruntimeconfig.cache

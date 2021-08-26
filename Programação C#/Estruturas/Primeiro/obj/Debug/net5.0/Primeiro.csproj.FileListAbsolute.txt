@@ -1,0 +1,16 @@
+D:\Senai\Estruturas\Primeiro\bin\Debug\net5.0\Primeiro.exe
+D:\Senai\Estruturas\Primeiro\bin\Debug\net5.0\Primeiro.deps.json
+D:\Senai\Estruturas\Primeiro\bin\Debug\net5.0\Primeiro.runtimeconfig.json
+D:\Senai\Estruturas\Primeiro\bin\Debug\net5.0\Primeiro.runtimeconfig.dev.json
+D:\Senai\Estruturas\Primeiro\bin\Debug\net5.0\Primeiro.dll
+D:\Senai\Estruturas\Primeiro\bin\Debug\net5.0\ref\Primeiro.dll
+D:\Senai\Estruturas\Primeiro\bin\Debug\net5.0\Primeiro.pdb
+D:\Senai\Estruturas\Primeiro\obj\Debug\net5.0\Primeiro.csprojAssemblyReference.cache
+D:\Senai\Estruturas\Primeiro\obj\Debug\net5.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Estruturas\Primeiro\obj\Debug\net5.0\Primeiro.AssemblyInfoInputs.cache
+D:\Senai\Estruturas\Primeiro\obj\Debug\net5.0\Primeiro.AssemblyInfo.cs
+D:\Senai\Estruturas\Primeiro\obj\Debug\net5.0\Primeiro.csproj.CoreCompileInputs.cache
+D:\Senai\Estruturas\Primeiro\obj\Debug\net5.0\Primeiro.dll
+D:\Senai\Estruturas\Primeiro\obj\Debug\net5.0\ref\Primeiro.dll
+D:\Senai\Estruturas\Primeiro\obj\Debug\net5.0\Primeiro.pdb
+D:\Senai\Estruturas\Primeiro\obj\Debug\net5.0\Primeiro.genruntimeconfig.cache

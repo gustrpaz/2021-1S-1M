@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Exemplo Sobrescrita/1.0.0": {
+        "runtime": {
+          "Exemplo Sobrescrita.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exemplo Sobrescrita/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

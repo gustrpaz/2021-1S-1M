@@ -1,0 +1,16 @@
+D:\Senai\Fixacao\Terceiro\bin\Debug\net5.0\Terceiro.exe
+D:\Senai\Fixacao\Terceiro\bin\Debug\net5.0\Terceiro.deps.json
+D:\Senai\Fixacao\Terceiro\bin\Debug\net5.0\Terceiro.runtimeconfig.json
+D:\Senai\Fixacao\Terceiro\bin\Debug\net5.0\Terceiro.runtimeconfig.dev.json
+D:\Senai\Fixacao\Terceiro\bin\Debug\net5.0\Terceiro.dll
+D:\Senai\Fixacao\Terceiro\bin\Debug\net5.0\ref\Terceiro.dll
+D:\Senai\Fixacao\Terceiro\bin\Debug\net5.0\Terceiro.pdb
+D:\Senai\Fixacao\Terceiro\obj\Debug\net5.0\Terceiro.csprojAssemblyReference.cache
+D:\Senai\Fixacao\Terceiro\obj\Debug\net5.0\Terceiro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Fixacao\Terceiro\obj\Debug\net5.0\Terceiro.AssemblyInfoInputs.cache
+D:\Senai\Fixacao\Terceiro\obj\Debug\net5.0\Terceiro.AssemblyInfo.cs
+D:\Senai\Fixacao\Terceiro\obj\Debug\net5.0\Terceiro.csproj.CoreCompileInputs.cache
+D:\Senai\Fixacao\Terceiro\obj\Debug\net5.0\Terceiro.dll
+D:\Senai\Fixacao\Terceiro\obj\Debug\net5.0\ref\Terceiro.dll
+D:\Senai\Fixacao\Terceiro\obj\Debug\net5.0\Terceiro.pdb
+D:\Senai\Fixacao\Terceiro\obj\Debug\net5.0\Terceiro.genruntimeconfig.cache

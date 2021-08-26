@@ -1,0 +1,32 @@
+D:\Senai\Exercicio produto\obj\Debug\net5.0\Exercicio produto.csprojAssemblyReference.cache
+D:\Senai\Exercicio produto\obj\Debug\net5.0\Exercicio produto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Exercicio produto\obj\Debug\net5.0\Exercicio produto.AssemblyInfoInputs.cache
+D:\Senai\Exercicio produto\obj\Debug\net5.0\Exercicio produto.AssemblyInfo.cs
+D:\Senai\Exercicio produto\obj\Debug\net5.0\Exercicio produto.csproj.CoreCompileInputs.cache
+D:\Senai\Exercicio produto\bin\Debug\net5.0\Exercicio produto.exe
+D:\Senai\Exercicio produto\bin\Debug\net5.0\Exercicio produto.deps.json
+D:\Senai\Exercicio produto\bin\Debug\net5.0\Exercicio produto.runtimeconfig.json
+D:\Senai\Exercicio produto\bin\Debug\net5.0\Exercicio produto.runtimeconfig.dev.json
+D:\Senai\Exercicio produto\bin\Debug\net5.0\Exercicio produto.dll
+D:\Senai\Exercicio produto\bin\Debug\net5.0\ref\Exercicio produto.dll
+D:\Senai\Exercicio produto\bin\Debug\net5.0\Exercicio produto.pdb
+D:\Senai\Exercicio produto\obj\Debug\net5.0\Exercicio produto.dll
+D:\Senai\Exercicio produto\obj\Debug\net5.0\ref\Exercicio produto.dll
+D:\Senai\Exercicio produto\obj\Debug\net5.0\Exercicio produto.pdb
+D:\Senai\Exercicio produto\obj\Debug\net5.0\Exercicio produto.genruntimeconfig.cache
+D:\Senai\Programação C#\Exercicio produto\bin\Debug\net5.0\Exercicio produto.exe
+D:\Senai\Programação C#\Exercicio produto\bin\Debug\net5.0\Exercicio produto.deps.json
+D:\Senai\Programação C#\Exercicio produto\bin\Debug\net5.0\Exercicio produto.runtimeconfig.json
+D:\Senai\Programação C#\Exercicio produto\bin\Debug\net5.0\Exercicio produto.runtimeconfig.dev.json
+D:\Senai\Programação C#\Exercicio produto\bin\Debug\net5.0\Exercicio produto.dll
+D:\Senai\Programação C#\Exercicio produto\bin\Debug\net5.0\ref\Exercicio produto.dll
+D:\Senai\Programação C#\Exercicio produto\bin\Debug\net5.0\Exercicio produto.pdb
+D:\Senai\Programação C#\Exercicio produto\obj\Debug\net5.0\Exercicio produto.csprojAssemblyReference.cache
+D:\Senai\Programação C#\Exercicio produto\obj\Debug\net5.0\Exercicio produto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Programação C#\Exercicio produto\obj\Debug\net5.0\Exercicio produto.AssemblyInfoInputs.cache
+D:\Senai\Programação C#\Exercicio produto\obj\Debug\net5.0\Exercicio produto.AssemblyInfo.cs
+D:\Senai\Programação C#\Exercicio produto\obj\Debug\net5.0\Exercicio produto.csproj.CoreCompileInputs.cache
+D:\Senai\Programação C#\Exercicio produto\obj\Debug\net5.0\Exercicio produto.dll
+D:\Senai\Programação C#\Exercicio produto\obj\Debug\net5.0\ref\Exercicio produto.dll
+D:\Senai\Programação C#\Exercicio produto\obj\Debug\net5.0\Exercicio produto.pdb
+D:\Senai\Programação C#\Exercicio produto\obj\Debug\net5.0\Exercicio produto.genruntimeconfig.cache

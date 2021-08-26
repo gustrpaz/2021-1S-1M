@@ -1,0 +1,16 @@
+D:\Senai\Funcao\bin\Debug\net5.0\Funcao.exe
+D:\Senai\Funcao\bin\Debug\net5.0\Funcao.deps.json
+D:\Senai\Funcao\bin\Debug\net5.0\Funcao.runtimeconfig.json
+D:\Senai\Funcao\bin\Debug\net5.0\Funcao.runtimeconfig.dev.json
+D:\Senai\Funcao\bin\Debug\net5.0\Funcao.dll
+D:\Senai\Funcao\bin\Debug\net5.0\ref\Funcao.dll
+D:\Senai\Funcao\bin\Debug\net5.0\Funcao.pdb
+D:\Senai\Funcao\obj\Debug\net5.0\Funcao.csprojAssemblyReference.cache
+D:\Senai\Funcao\obj\Debug\net5.0\Funcao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Senai\Funcao\obj\Debug\net5.0\Funcao.AssemblyInfoInputs.cache
+D:\Senai\Funcao\obj\Debug\net5.0\Funcao.AssemblyInfo.cs
+D:\Senai\Funcao\obj\Debug\net5.0\Funcao.csproj.CoreCompileInputs.cache
+D:\Senai\Funcao\obj\Debug\net5.0\Funcao.dll
+D:\Senai\Funcao\obj\Debug\net5.0\ref\Funcao.dll
+D:\Senai\Funcao\obj\Debug\net5.0\Funcao.pdb
+D:\Senai\Funcao\obj\Debug\net5.0\Funcao.genruntimeconfig.cache

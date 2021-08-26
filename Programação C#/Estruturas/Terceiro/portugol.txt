@@ -1,0 +1,36 @@
+cadeia nome
+	inteiro idade
+	real salario
+	cadeia estadoCivil
+	
+	
+	funcao inicio() {
+		
+		faça{
+		escreva("Digite seu nome: ")
+		leia (nome)
+		}enquanto (nome == "")
+		
+		faça{
+		escreva("Digite sua idade: ")
+		leia (idade
+		}enquanto (idade >= 150)
+		
+		faça{
+		escreva("Digite seu salário: ")
+		leia (salario)
+		}enquanto (salario <= 0)
+		
+		faça{
+		escreva("Digite seu estavo civil: (s/c/v/d)")
+		leia (estadoCivil)
+		}enquanto (estadoCivil != "s" && estadoCivil != "c" && estadoCivil != "v" && estadoCivil != "d")
+		
+		
+	    Console.WriteLine("Suas informações são válidas! \n");
+		Console.WriteLine("Seu nome é: " + nome + "\n")
+		Console.WriteLine("Sua idade é: " + idade + "\n");
+		Console.WriteLine("Seu salário é " + salario + "\n");
+		Console.WriteLine("Seu estado é " + estadoCivil);
+	}
+}

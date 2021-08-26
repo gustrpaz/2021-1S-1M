@@ -1,0 +1,382 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    }
+    .container{
+    width:1200px;
+    margin: 0 auto;
+
+    /* background-color:maroon;  */
+    }  
+
+    header{
+    height: 100px;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+    width: 100%;
+
+    background-color: #000000;
+    }
+
+    .container_header{
+    display: flex;
+    justify-content: space-evenly;
+    height:100%;
+    align-items: center;
+    margin-right: 280px;
+
+     /* background-color: cyan;   */
+    }
+
+    .menu_header{
+     display: flex;
+     justify-content:space-between;
+     /* background-color: bisque; */
+     width: 759px;
+     align-items: center;
+
+    /* background-color: chocolate;   */
+    }
+
+    .menu_header a{
+    color:#ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-size: 19px;
+    }
+      
+    .logo_site{      
+    width: 360px;
+    height: 32px;
+    margin-right: 76px;
+    align-items: center;
+    }
+
+    .container_banner{
+    width: 100%;  
+    height: 240;
+    align-items: center;
+    background-color: aqua;
+    }
+
+    .fundo_fortnite{
+    width: 100%;  
+    height: 240;
+    background-color: blueviolet;
+    margin-top: 100px;;
+    }
+
+    .box_conteudo{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+    background-color: crimson;
+    }
+
+    .box_conteudo h1{
+    width: 350px;
+    height: 60px;
+    position: absolute;
+    margin-top: 80px;
+
+    font-family: 'Titillium Web';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 61px;
+
+    color: #FFFFFF;
+    }
+
+    .corpo{
+    width: 100%;
+    height: 1250px;
+    flex-direction: column;
+
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: -160px;
+    background: #1E1C21;
+    }
+
+    .box_cadastro{
+    width: 770px;
+    height: 629px;
+    margin-top: 161px;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    
+    background: linear-gradient(180deg, #000000 0%, rgba(83, 83, 83, 0.577381) 25%, rgba(196, 196, 196, 0) 87.5%);
+    box-shadow: 1px 1px 20px 4px #000000;
+    }
+
+    .container_cadastro{
+    width: 577px;
+    height: 379px;   
+    margin-top: 62px;
+    flex-direction: column;
+
+    /* background-color: cornflowerblue; */
+    }
+
+    .container_cadastro span{
+    width: 168px;
+    height: 23px;
+   
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+    }
+
+    .lista_jogadores h1{
+    width: 330px;
+    height: 39px;
+    left: 560px;
+    top: 431px;
+    
+    margin-top: 88px;
+    margin-bottom: 14px;
+
+    font-family: Titillium Web;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 61px;
+
+    color: #FFFFFF;
+    }
+
+    .cadastrar{
+    display: flex; 
+    }
+    .cadastro{
+    width: 576px;
+    height: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+    background: #ABABAB;
+    }
+
+    
+
+    #triangulo-para-baixo {
+    width: 0; 
+    height: 0; 
+    margin-left: 533px;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-top: 19px solid #000000;
+    }
+
+    .cadastrar input {
+    height: 30px;
+    width: 577px;
+    background: #ABABAB;
+    }
+
+    /* .container_cadastro span{
+     margin-top: 34px;;
+  */
+
+    .container_cadastro span{
+    line-height: 35px;
+    }
+
+    .nomedojogador{
+    }
+
+    .email{
+    margin-top: 30px;
+    }
+
+    .senha{
+    margin-top: 30px;
+    }
+
+
+    form{
+    display: flex;
+    flex-direction: column;
+    }
+
+    select{
+    background-color: #ababab;
+    border-style: none;
+    height: 30px;
+    width: 33vw;
+    }
+
+    .equip{
+    height: 30px;
+    width: 35vw;
+    margin-top: 70px;
+
+    /* background-color: #ababab; */
+    border-style: none;
+    color: white;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    }
+
+    .cadastrar a:hover{
+    scale: 1.1;
+    }
+    
+    .container_cadastro nav{
+    margin-top: 71px;
+    margin-left: 150px;
+    }
+
+    /* Tabela */
+
+    .retangulo_lista{
+    margin-top: 38px;
+    }
+
+    table{
+    width: 770px;
+    border: 2px solid #FFFFFF;
+    border-collapse: collapse;
+    }
+
+    .linha1{
+    height: 60px;
+   
+    background-color: #010101;
+    border-bottom: 2px solid #FFFFFF;
+    border-collapse: collapse;
+    }
+
+    th{
+    padding-left: 13px;
+    text-align: left;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #FFFFFF;  
+    }
+
+    td{
+    padding: 13px;   
+    margin-left: 10px; 
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+    }
+
+    .linha2{
+    background: none;    
+    border-bottom: none;
+    border-top: none;
+    }
+
+    /* Rodapé */
+    footer {
+        background-color: black;
+        height: 350px;
+        display: flex;
+        align-items: center;
+    }
+    
+    .container_footer {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    
+    .container_links {
+        display: flex;
+        justify-content: space-between;
+        width: 280px;
+    }
+    
+    .container_links span {
+        font-family: 'Titillium Web', sans-serif;
+        font-size: 20px;
+        color: white;
+    }
+    
+    .container_links li {
+        color: white;
+    }
+    
+    .container_links a {
+        font-family: 'Titillium Web', sans-serif;
+        font-size: 15px;
+        color: white;
+        text-decoration: none;
+    }
+    
+    .siga_nos .clan {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: white;
+    }
+    
+    .siga_nos .segue {
+        font-family: 'Titillium Web', sans-serif;
+        color: white;
+        font-size: 20px;
+    }
+    
+    .siga_nos img {
+        height: 40px;
+        width: 40px;
+    }
+    
+    .cadastrado {
+        display: flex;
+    }
+    
+    .cadastrado input {
+        height: 40px;
+        width: 220px;
+    }
+    
+    .cadastrado a {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none;
+        background-color: #016AB7;
+        height: 40px;
+        width: 126px;
+    }
+    
+    .cadastrado a span {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size: 25px;
+        font-weight: bold;
+        color: white;
+    }
+    
+    .redes_sociais {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-top: 10px;
+    }

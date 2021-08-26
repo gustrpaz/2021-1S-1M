@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Times</title>
+    <script src="https://kit.fontawesome.com/8072771ef9.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+
+<body>
+    <header>
+        <div class="container container_header">
+            <img class="logo_site" src="assets/logo.svg">
+            <nav id ="links" class="menu_header">
+                <a href="#inicio">Início</a>
+                <a href="#horarios">Horários</a>
+                <a href="#campeonato">Campeonato</a>
+                <a href="#resultado">Resultado</a>
+                <a href="#noticias">Notícias</a>
+                <a class="fechar" href="#" onclick="BotaoDoMenu()">Fechar</a>
+            </nav>
+            <a class="btn_menu" href="#" onclick="BotaoDoMenu()">
+                <i class="fas fa-bars"></i>
+            </a>
+        </div>
+    </header>
+
+    <main>
+        <section id="inicio" class="container_banner">
+            <div class="box_conteudo">
+                <img class="fundo_sonic" src="assets/Sonic.png">
+                <h1>Cadastro de Times</h1>
+            </div>
+        </section>
+        <section class="corpo">
+            <div class="box_cadastro">
+                <div class="container_cadastro">
+                    <div class="nomedojogador">
+                        <span>Nome da Equipe</span>
+                        <div class="cadastrar">
+                            <label for="Nome da Equipe"></label><input type="Nome da Equipe" name="Nome da Equipe"
+                                size="40" placeholder="Nome da Equipe" />
+                        </div>
+                    </div>
+
+                    <div class="email">
+                        <span>Emblema</span>
+                        <div class="cadastradinho">
+                            <!-- <span>Escolher Imagem</span> -->
+                            <!-- <label for="E-mail"></label><input type="E-mail" name="E-mail" size="40" placeholder="E-mail"/> -->
+                            <label for="Emblema"></label>
+                            <input type="file" name="file" class="input_emblema" value="Escolher Imagem">
+                        </div>
+                    </div>
+                    <div class="botaocadastro">
+                        <nav class="cadastrar">
+                            <a href="cadastrar"></a>
+                            <a href=""><button>cadastrar</button></a>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <div class="lista_jogadores">
+                <h1>Lista de Times</h1>
+            </div>
+            <div class="retangulo_lista">
+                <table class="letter_texto">
+                    <tr class="linha1">
+                        <th>Nome da Equipe</th>
+                        <th>Emblema</th>
+                    </tr>
+                    <tr>
+                        <td>SENAI Cytechs</td>
+                        <td><img src="assets/senai.png" alt="senai-logo"></td>
+                    </tr>
+                    <tr>
+                        <td>Flamengo</td>
+                        <td><img src="assets/fla-logo.png" alt="fla-logo"></td>
+                    </tr>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <footer id="rodape">
+        <div class="container_footer container">
+
+            <div class="container_links">
+                <div>
+                    <span>Links úteis</span>
+                    <ul>
+                        <li> <a href="">Regras de utilização</a></li>
+                        <li> <a href="">Suporte</a></li>
+                        <li> <a href="">Central de ajuda</a></li>
+                        <li> <a href="">Contatar</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <span>Páginas</span>
+                    <ul>
+                        <li><a href="#inicio">Início</a></li>
+                        <li><a href="#campeonato">Campeonatos</a></li>
+                        <li><a href="#resultado">Resultados</a></li>
+                        <li><a href="#noticias">Notícias</a></li>
+                        <li><a href="#rodape">Login/Cadastro</a></li>
+                    </ul>
+                </div>
+            </div>
+            <img class="logo_footer" src="assets/logo.svg" alt="logo E-players">
+            <div class="siga_nos">
+                <span class="clan">Faça parte do nosso clan, assine novo newsletter!</span>
+                <div class="cadastrado">
+                    <label for="e-mail_1"></label><input type="e-mail" name="e-mail" size="40" placeholder="E-mail" />
+                    <a href=""><span>Cadastrar</span></a>
+                </div>
+                <div class="redes_sociais">
+                    <span class="segue">Siga nos em:</span>
+                    <a href="https://www.instagram.com/senai_info/"><img src="assets/instagram.png" alt="Instagram"></a>
+                    <a href="https://www.facebook.com/senaiinformatica"><img src="assets/facebook.png"
+                            alt="Facebook"></a>
+                    <a href="https://www.youtube.com/channel/UCIrKFzk1K-eOQ70NOsm587A"><img src="assets/youtube.png"
+                            alt="Youtube"></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script>
+        function BotaoDoMenu() {
+            var menu = document.getElementById("links");
+            if (menu.style.display === "flex"){
+                  // Esconda o menu 
+                  menu.style.display = "none";
+            } else {
+                //Mostre o menu
+                menu.style.display = "flex"
+            }
+        }  
+    </script>
+    
+</body>
+
+</html>

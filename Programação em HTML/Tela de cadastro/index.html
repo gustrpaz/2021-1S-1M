@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Jogador</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="container container_header">
+            <img class="logo_site" src="assets/logo.svg">
+            <nav class="menu_header">
+                <a href="#inicio">Início</a>
+                <a href="#horarios">Horários</a>
+                <a href="#campeonato">Campeonato</a>
+                <a href="#resultado">Resultado</a>
+                <a href="#noticias">Notícias</a>
+            </nav>
+        </div>
+    </header>
+
+     <main>
+         <section id="inicio" class="container_banner">
+             <div class="box_conteudo">
+                 <img class="fundo_fortnite" src="assets/players fortnite.jpg">
+                 <h1>Cadastro de Jogador</h1>
+                </div>
+        </section>
+        <section class="corpo">
+         <div class="box_cadastro">
+             <div class="container_cadastro">
+                 <div class="nomedojogador">
+               <span>Nome do Jogador</span>
+               <div class="cadastrar">
+                <label for="Nickname"></label><input type="Nickname" name="Nickname" size="40" placeholder="Nickname"/>
+               </div>
+             </div>
+
+             <div class="email">
+             <span>Email</span>
+               <div class="cadastrar">
+                <label for="E-mail"></label><input type="E-mail" name="E-mail" size="40" placeholder="E-mail"/>
+            </div>
+             </div>
+             <div class="senha">
+             <span>Senha</span>
+               <div class="cadastrar">
+                <label for="Senha"></label><input type="Senha" name="Senha" size="40" placeholder="Senha"/>
+            </div>
+             </div>
+
+             <form>
+                <label class="equip" for="equipes">Equipe</label>
+                <select id="equipes">
+                    <option value="senai_cytechs">SENAI Cytechs</option>
+                    <option value="flamengo">Flamengo</option>
+                    <option value="" selected></option>
+                </select>
+            </form>
+             
+             <nav class="cadastrar">
+                <a href="cadastrar"></a>
+                <a href=""><button style="background: #116014; position: absolute ; width: 257px; height: 40px; border-radius: 10px; cursor: pointer; color: #fff; border: none; font-size: 19px; font-family: Titillium Web, sans-serif; text-transform: uppercase; line-height: 34px; font-weight: bold;">cadastrar</button></a>
+            </nav>
+            
+         </div>
+        </div>
+        <div class="lista_jogadores">
+               <h1>Lista de Jogadores</h1>
+        </div>
+        <div class="retangulo_lista">
+            <table class="letter_texto">
+                <tr class="linha1">
+                <th>Nome do Jogador</th>
+                <th>Equipe</th>
+                </tr>
+                <tr>
+                    <td>Thiago</td>
+                    <td>SENAI Cytechs</td>
+                </tr>
+                <tr>
+                    <td>Odirlei</td>
+                    <td>SENAI Cytechs</td>
+                </tr>
+            </table>
+        </div>
+    </section>
+     </main>
+
+     <footer id="rodape">
+        <div class="container_footer container">
+
+            <div class="container_links">
+                <div>
+                    <span>Links úteis</span>
+                    <ul>
+                        <li> <a href="">Regras de utilização</a></li>
+                        <li> <a href="">Suporte</a></li>
+                        <li> <a href="">Central de ajuda</a></li>
+                        <li> <a href="">Contatar</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <span>Páginas</span>
+                    <ul>
+                        <li><a href="#inicio">Início</a></li>
+                        <li><a href="#campeonato">Campeonatos</a></li>
+                        <li><a href="#resultado">Resultados</a></li>
+                        <li><a href="#noticias">Notícias</a></li>
+                        <li><a href="#rodape">Login/Cadastro</a></li>
+                    </ul>
+                </div>
+            </div>
+            <img class="logo_footer" src="assets/logo.svg" alt="logo E-players">
+            <div class="siga_nos">
+                <span class="clan">Faça parte do nosso clan, assine novo newsletter!</span>
+                <div class="cadastrado">
+                    <label for="e-mail_1"></label><input type="e-mail" name="e-mail" size="40" placeholder="E-mail"/>
+                    <a href=""><span>Cadastrar</span></a>
+                </div>
+                <div class="redes_sociais">
+                    <span class="segue">Siga nos em:</span>
+                    <a href="https://www.instagram.com/senai_info/"><img src="assets/instagram.png" alt="Instagram"></a>
+                    <a href="https://www.facebook.com/senaiinformatica"><img src="assets/facebook.png" alt="Facebook"></a>
+                    <a href="https://www.youtube.com/channel/UCIrKFzk1K-eOQ70NOsm587A"><img src="assets/youtube.png" alt="Youtube"></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
